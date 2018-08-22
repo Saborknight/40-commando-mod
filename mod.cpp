@@ -1,0 +1,13 @@
+name = "40 Commando";
+picture = "40-Commando-logo.jpg";
+actionName = "Discord";
+action = "https://discord.gg/GDWRvXD";
+description = "Version: 0.1.0<br>Issue & Feature requests: https://github.com/Saborknight/40-commando-mod/issues";
+logo = "40-Commando-logo.jpg";
+logoOver = "40-Commando-logo.jpg";
+tooltip = "40 Commando";
+overview = "";
+author = "Arend the Bastard";
+overviewPicture = "40-Commando-logo.jpg";
+overviewText = "";
+overviewFootnote = '<br /><br /><t color="#999999">This content is under Arma Public "Share Alike" Licence.';

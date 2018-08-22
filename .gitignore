@@ -1,0 +1,6 @@
+*.pbo
+*texHeaders.bin
+.vscode
+*.log
+keys/*.biprivatekey
+keys/*.txt
